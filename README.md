@@ -25,7 +25,7 @@
 - в процессе обучения на курсах SKILLFACTORY по Data Science
  
 ### 🙌🏻 Свяжись со мной
-- [e-mail: mrglibly@gmail.com](<mrglibly@gmail.com>)
+- e-mail:<mrglibly@gmail.com>)
 - Телефон: +7 968 665-0183
 ---
 
