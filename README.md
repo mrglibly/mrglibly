@@ -8,7 +8,6 @@
   - курсы Skillbox по PowerBI
 * 20+ лет диверсифицированного опыта работы в Логистике (Supply Chain)
 * интересуюсь базами данных, визуализацией данных, автоматизацией рабочих процессов 
-* 
 
 ### 📚 Проекты 📚
 
@@ -39,6 +38,10 @@
  - Skilbox course on PowerBI
 * 20+ years of various experience in Logistics and Supply Chain
 * interested in data bases, Data Visualization, processes automation
+  
+### 📚 Projects 📚
+
+* Click [here](https://github.com/mrglibly/4GitHub/blob/main/README.md) to see my projects.
 
 ### 💡 Core competencies 💡
 - Tools: Python, PowerBI, MS Access, MS VBA 
