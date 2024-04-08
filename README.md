@@ -12,7 +12,7 @@
 
 ### 📚 Проекты 📚
 
-* Кликни [сюда](https://github.com/mrglibly/SBProject_01) чтобы посмотреть мои проекты
+* Кликни [сюда]([https://github.com/mrglibly/SBProject_01](https://github.com/mrglibly/4GitHub/blob/main/README.md)) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
 - Инструменты: Python, PowerBI, MS Access, MS VBA 
