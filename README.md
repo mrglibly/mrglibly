@@ -1,7 +1,7 @@
 ### Всем Привет! 👋
 
 ### 💡 Основные компетенции 💡
-#### Инструменты: Python, SQL, PostgreSQL, PowerBI, DAX, HTML, CSS, MS Access. 
+#### Инструменты: Python, SQL, PostgreSQL, PowerBI, HTML, CSS, MS Access. 
 
 #### Skills: 
 - строить базовые модели машинного обучения: Регрессии, Классификации и Рекомендательные системы
@@ -11,12 +11,11 @@
 - понимаю и имею опыт работы с базами данных (PostgresSQL, MS Access) и автоматизации рабочих мест на их основе.
 - владею навыками программирования на Питоне. 
 - владею основами машинного обучения, теории вероятности и матстатистики.
-- собор и обрабатка данные из различных источников.
+- парсинг: собор и обрабатка данные из различных источников.
 - разрабатывать и поддерживать дашборды сквозной аналитики на основе PowerBI 
 
 ### В настоящее время
-- заканчиваю обучение на курсах "«Азбука цифры. Программирование на языке Python: от базового уровня до продвинутого» при Томском Государственном Университете.
-- заканчиваю обучение по специальности Data Science (ML инжернер)
+- заканчиваю обучение на он-лайн курсах SKILLFACTORY по специальности Data Science (ML инжернер)
 
 ### Проекты 
 * Кликни [сюда](https://github.com/mrglibly/4GitHub/blob/main/README.md) чтобы посмотреть мои проекты
@@ -26,8 +25,9 @@
   - Основы Делового Администрирования от Открытого Университета
   - 5 курсов по Цепям Поставок от MIT
   - курсы Skillbox по PowerBI
+  - курсы «Азбука цифры. Программирование на языке Python: от базового уровня до продвинутого» при Томском Государственном Университете.
 * 20+ лет диверсифицированного опыта работы в Логистике (Supply Chain)
-* интересуюсь базами данных, визуализацией данных, автоматизацией рабочих процессов
+* интересуюсь базами данных, парсингом, визуализацией данных, автоматизацией рабочих процессов
 * СМ. резюме: [по сылке](https://github.com/mrglibly/BoykoCV/blob/main/SBoyko_SV_md.md)
  
 ### Мои контакты:
@@ -43,7 +43,8 @@
  - diploma for English and German from the Moscow Teachers Training University
  - MBA Fundamentals from the Open Unversity (1 year)
  - 5 certificates from MIT Supply Chain courses
- - Skilbox course on PowerBI
+ - Skillbox course on PowerBI
+ - On-line course "Python: from Beginner to Advanced level" at the Tomsky State University
 * 20+ years of various experience in Logistics and Supply Chain
 * interested in data bases, Data Visualization, processes automation
   
